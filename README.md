@@ -21,6 +21,6 @@ File: `task1_factorial.py`
 
 **File:** `task2_math_module.py`
 
-Clone the repository: git clone https://github.com/YourUsername/python-assignment3.git
+Clone the repository: git clone https://github.com/Rajupatil164/python-assignment3.git
 
 cd python-assignment3
